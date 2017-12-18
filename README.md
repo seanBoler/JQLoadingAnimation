@@ -13,7 +13,7 @@
 # 动画加载
 
 
-![image](https://github.com/seanBoler/JQLoadingAnimation/blob/master/JQLoadAnimation/JQLoadAnimation/animation.gif）
+![image](https://github.com/seanBoler/JQLoadingAnimation/blob/master/JQLoadAnimation/JQLoadAnimation/animation.gif)
 
 
 可根据需要写到webview代理，加载web加载时间过长问题
