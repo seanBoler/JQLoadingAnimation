@@ -7,9 +7,12 @@
 
 
 # 数据加载失败 -> 提示加载失败 
+
 ![image](https://github.com/seanBoler/JQLoadingAnimation/blob/master/JQLoadAnimation/JQLoadAnimation/DBBE7BF7-A299-4752-B1E5-F6D7A60B069C.png)
 
 # 动画加载
+
+
 ![image](https://github.com/seanBoler/JQLoadingAnimation/blob/master/JQLoadAnimation/JQLoadAnimation/animation.gif）
 
 
